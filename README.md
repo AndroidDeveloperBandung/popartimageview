@@ -15,8 +15,10 @@ To start the workshop, please do follow:
 ## The Result
 
 You can found the result of the workshop in `master` branch.
-Comound view sample in `compound_view` branch
-Custom view sample in `custom_view` branch
+
+Comound view sample in `compound_view` branch.
+
+Custom view sample in `custom_view` branch.
 
 <img src="https://github.com/AndroidDeveloperBandung/popartimageview/blob/master/art/popart.png?raw=true">
 
